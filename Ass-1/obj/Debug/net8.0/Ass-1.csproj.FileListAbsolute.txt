@@ -1,0 +1,14 @@
+c:\Users\user\OneDrive\سطح المكتب\Apps\Ass-1\Ass-1\bin\Debug\net8.0\Ass-1.exe
+c:\Users\user\OneDrive\سطح المكتب\Apps\Ass-1\Ass-1\bin\Debug\net8.0\Ass-1.deps.json
+c:\Users\user\OneDrive\سطح المكتب\Apps\Ass-1\Ass-1\bin\Debug\net8.0\Ass-1.runtimeconfig.json
+c:\Users\user\OneDrive\سطح المكتب\Apps\Ass-1\Ass-1\bin\Debug\net8.0\Ass-1.dll
+c:\Users\user\OneDrive\سطح المكتب\Apps\Ass-1\Ass-1\bin\Debug\net8.0\Ass-1.pdb
+c:\Users\user\OneDrive\سطح المكتب\Apps\Ass-1\Ass-1\obj\Debug\net8.0\Ass-1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\user\OneDrive\سطح المكتب\Apps\Ass-1\Ass-1\obj\Debug\net8.0\Ass-1.AssemblyInfoInputs.cache
+c:\Users\user\OneDrive\سطح المكتب\Apps\Ass-1\Ass-1\obj\Debug\net8.0\Ass-1.AssemblyInfo.cs
+c:\Users\user\OneDrive\سطح المكتب\Apps\Ass-1\Ass-1\obj\Debug\net8.0\Ass-1.csproj.CoreCompileInputs.cache
+c:\Users\user\OneDrive\سطح المكتب\Apps\Ass-1\Ass-1\obj\Debug\net8.0\Ass-1.dll
+c:\Users\user\OneDrive\سطح المكتب\Apps\Ass-1\Ass-1\obj\Debug\net8.0\refint\Ass-1.dll
+c:\Users\user\OneDrive\سطح المكتب\Apps\Ass-1\Ass-1\obj\Debug\net8.0\Ass-1.pdb
+c:\Users\user\OneDrive\سطح المكتب\Apps\Ass-1\Ass-1\obj\Debug\net8.0\Ass-1.genruntimeconfig.cache
+c:\Users\user\OneDrive\سطح المكتب\Apps\Ass-1\Ass-1\obj\Debug\net8.0\ref\Ass-1.dll
